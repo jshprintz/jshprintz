@@ -1,5 +1,5 @@
 ## Hi, I'm Jason
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonshprintz/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonshprintz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jshprintz@gmail.com)
 
 #### The first platform I ever programmed on was the TI-83+ calculator, and I've been coding ever since. 
 
