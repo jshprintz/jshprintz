@@ -19,8 +19,6 @@
 - [iDrunk](https://github.com/jshprintz/iDrunk)
 *Social media application built using Django, Python, AWS, and PostgreSQL. (Group Project)*
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshprintz)](https://github.com/jshprintz/github-readme-stats)
-
 ---
 
 ### Skills
