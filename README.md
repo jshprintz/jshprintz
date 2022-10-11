@@ -8,7 +8,7 @@
 #### Check out my projects below!
 
 - [Minesweeper](https://github.com/jshprintz/Minesweeper)
-*Browser-based game made with only javascript, CSS, and HTML*
+*Browser-based game made with only JavaScript, CSS, and HTML*
 
 - [Haiku For You](https://github.com/jshprintz/Haiku-For-You)
 *Full MERN stack social media application designed around haikus*
@@ -32,7 +32,7 @@
 
 ##### Hosting
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ##### Languages
 
